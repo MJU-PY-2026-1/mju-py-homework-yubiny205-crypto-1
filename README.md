@@ -40,6 +40,7 @@
     
 ### **📁 증빙 자료:**
   * [1차_AI협업캡처.pdf 첨부 완료] (첨부 후 링크)
+  * https://github.com/MJU-PY-2026-1/mju-py-homework-yubiny205-crypto-1/blob/main/1%EC%B0%A8%EA%B3%BC%EC%A0%9C_AI%ED%98%91%EC%97%85%EC%A6%9D%EB%AA%85.pdf
 
 <br>
 
