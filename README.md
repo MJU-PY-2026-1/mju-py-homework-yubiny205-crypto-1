@@ -121,7 +121,7 @@
    * **해결:** `total_price`처럼 프로그램 전체에서 계속 유지되고 변경되는 값은 전역변수로 사용하고, `remaining_budget`과 `budget_rate`처럼 현재 상태를 바탕으로 잠시 계산하는 값은 각 함수 내부의 지역변수로 처리하였다. 이를 통해 전역변수와 지역변수의 역할을 구분할 수 있었다.
      
 ### **📁 증빙 자료:**
-  * [3차_AI협업캡처.pdf 첨부 완료] (첨부 후 링크)
+  * [3차_AI협업캡처.pdf 첨부 완료] https://github.com/MJU-PY-2026-1/mju-py-homework-yubiny205-crypto-1/blob/main/3%EC%B0%A8_AI%ED%98%91%EC%97%85%EC%BA%A1%EC%B2%98.pdf
   * [3차과제_실행결과.jpg]
 <br>
 
