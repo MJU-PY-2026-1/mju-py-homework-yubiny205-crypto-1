@@ -192,7 +192,7 @@
 
 ### **📁 증빙 자료:**
 
-* [4차_AI협업캡처.pdf 첨부 완료] (첨부 후 링크)
+* [4차_AI협업캡처.pdf 첨부 완료] https://github.com/MJU-PY-2026-1/mju-py-homework-yubiny205-crypto-1/blob/main/4%EC%B0%A8_AI%ED%98%91%EC%97%85%EC%BA%A1%EC%B2%98.pdf
 * [4차과제_실행결과.jpg]
 
 <br>
